@@ -1,0 +1,22 @@
+
+*.zip
+*.gbl
+*.gbs
+*.gbp
+*.gbo
+PulseGen-cache.lib
+*.rpt
+*.gbr
+*.gm1
+*.gtl
+*.gts
+*.gtp
+*.gto
+PulseGen-rescue.lib
+*.bak
+*.drl
+*.kicad_pcb-bak
+PulseGen.net
+PulseGen.xml
+Pwr Supply.log
+*.raw
